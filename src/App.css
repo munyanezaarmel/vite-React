@@ -1,0 +1,150 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   font-family: 'inter','sans-selif';
+}
+
+body{
+    background-color: #1C1C1C;
+}
+.container-1{
+    background-color: #23252C;
+    width:550px;
+    height: 868px;
+    margin-left:65px;
+    margin-top: 53px;
+    padding-bottom: 53px;
+}
+.wrapper{
+ background-color: #1A1B21;
+ width:337px;
+ height: 650px;
+ margin-left:116px; 
+}
+img{
+    width:337px;
+    height: 337px;
+}
+.title{
+    font-size: 25px;
+    font-weight: 700;
+    font-style: bold;
+    color:white;
+  margin-left:75px;
+}
+.front{
+    color:#F3BF99;
+    font-size: 12px;
+    margin-left:95px;
+}
+.small{
+    color:#F5F5F5;
+    margin-left:110px;
+    font-size: 10px;
+
+}
+.email{
+    width: 115px;
+    height: 34px;
+    background-color: #D1D5DB;
+    border-radius: 6px;
+    margin-left:20px;
+    color:#374151;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    width: 115px;
+    height: 34px;
+    background-color: #5093E2;
+    border-radius: 6px;
+   margin-left:20px;
+   color:#fff;
+}
+.a-link{
+    color:#FFF;
+    padding: 8px;
+    font-size: 14px;
+}
+.a-email{
+    color:#374151;
+    font-size: 14px;
+    padding: 8px;
+}
+.icon-email{
+  margin-left:20px;
+  margin-top:10px;
+
+}
+.icon-link{
+    margin-left:20px;
+    margin-top:10px;
+  
+  }
+.flex{
+    display: flex;
+   align-items: center;
+   padding-top:12px;
+}
+.about-title{
+    font-size: 16px;
+    font-weight: 700;
+    font-style: bold;
+    color:white;
+    margin-left:20px;
+    margin-top:20px; 
+}
+.paragraph-about{
+    color:#DCDCDC;
+    font-size: 10px;
+    margin-left:20px;
+    margin-top:2px; 
+}
+
+.interest-title{
+    font-size: 16px;
+    font-weight: 700;
+    font-style: bold;
+    color:white;
+    margin-left:20px;
+    margin-top:20px; 
+}
+.paragraph-interest{
+    color:#DCDCDC;
+    font-size: 10px;
+    margin-left:20px;
+    margin-top:2px; 
+}
+.footer{
+    width: 317;
+    margin-top:20px; 
+    background-color: #161619;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.facebook{
+    color:#918E9B;
+    width:25px;
+    height:25px;
+}
+.twitter{
+    color:#918E9B;
+    width:25px;
+    height:25px;
+}
+.instagram{ 
+    color:#918E9B;
+    width:25px;
+    height:25px;
+}
+
+
+.github{
+    color:#918E9B; 
+    width:25px;
+    height:25px;
+}
